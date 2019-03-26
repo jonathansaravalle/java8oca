@@ -72,16 +72,5 @@ class AnnualExam {
 
 */
 
-/*Class Definition
-
-A class is a design used to specify the attributes and behavior of an object.
-The attributes are implemented using variables and behavior is implemented using methods.
-
-
-
-*/
-
-
-
     ExamQuestion eq;
 }
