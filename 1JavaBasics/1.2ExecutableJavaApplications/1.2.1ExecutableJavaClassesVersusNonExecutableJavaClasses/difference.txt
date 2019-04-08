@@ -1,0 +1,4 @@
+The difference between a Executable Class and a Non-Executable Class is the man method.
+
+An executable Java class, when handed over to the JVM, starts its execution at a particular point in the class - the main method.
+The JVM starts executing the code that's defined in the main method
