@@ -1,2 +1,5 @@
 # java8oca
-Java 8 oca playground
+
+Following Mala Gupta's book: OCA Java SE 8 Programmer I Certification Guide
+
+
